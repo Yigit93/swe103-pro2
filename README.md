@@ -6,7 +6,9 @@ This C++ program compares which of the two entered integers is greater or smalle
 Usage
 ---------------
 1- Pull and run the program.
+
 2- Enter two integers.
+
 3- Program prints the result.
 
 Author
